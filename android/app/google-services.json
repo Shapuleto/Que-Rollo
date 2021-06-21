@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "315839350350",
+    "project_id": "que-rollo",
+    "storage_bucket": "que-rollo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315839350350:android:2db11fa7bb004bdd12e51f",
+        "android_client_info": {
+          "package_name": "com.ideal4u.querollo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315839350350-dco3q0rq4cqek3jcjshn4ho8fplm2n7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ideal4u.querollo",
+            "certificate_hash": "2781ed7b08781b4b015ac51f201799c8b12b9662"
+          }
+        },
+        {
+          "client_id": "315839350350-t78ntsjud7hohavip6uf914ip35habgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_GPj54TAVE7Zp3XckQxgxnIoYjkJw-Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315839350350-t78ntsjud7hohavip6uf914ip35habgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

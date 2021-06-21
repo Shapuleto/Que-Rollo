@@ -1,6 +1,3 @@
-Flutter Android & iOS Chat App like Telegram using Firebase Firestore.
-Developed by: Coding Cafe
+Flutter Android & iOS Mobile Chat App using Firebase Firestore.
 
 
-Mail us at:
-alizeb875@gmail.com
